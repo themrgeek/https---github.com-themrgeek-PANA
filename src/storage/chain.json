@@ -1,0 +1,28 @@
+{
+  "chain": [
+    {
+      "index": 0,
+      "timestamp": "1689151512345",
+      "transactions": [],
+      "previousHash": "0",
+      "hash": "a1b2c3d4...",
+      "nonce": 123
+    },
+    {
+      "index": 1,
+      "timestamp": "1689151612345",
+      "transactions": [
+        {
+          "fromAddress": "abc123...",
+          "toAddress": "def456...",
+          "amount": 100,
+          "timestamp": 1689151600000,
+          "signature": "3045..."
+        }
+      ],
+      "previousHash": "a1b2c3d4...",
+      "hash": "f5e6g7h8...",
+      "nonce": 456
+    }
+  ]
+}
