@@ -1,0 +1,23 @@
+{
+  "name": "pana_blockchain",
+  "version": "1.0.0",
+  "description": "This is the first POC for PANA cryptocurrency",
+  "keywords": [
+    "pana"
+  ],
+  "homepage": "https://github.com/themrgeek/PANA#readme",
+  "bugs": {
+    "url": "https://github.com/themrgeek/PANA/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/themrgeek/PANA.git"
+  },
+  "license": "MIT",
+  "author": "Mr. Kathan C Parekh",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
